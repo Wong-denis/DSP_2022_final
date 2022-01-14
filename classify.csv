@@ -1,0 +1,11 @@
+Name	Location	Genre
+DandB_1	./music/need_classify/DandB_1.mp3	Techno
+DandB_2	./music/need_classify/DandB_2.mp3	Drum & Bass
+ambient_1	./music/need_classify/ambient_1.mp3	Ambient
+ambient_2	./music/need_classify/ambient_2.mp3	Ambient
+jazz_1	./music/need_classify/jazz_1.mp3	Jazz
+jazz_2	./music/need_classify/jazz_2.mp3	Techno
+rap_1	./music/need_classify/rap_1.mp3	Rap
+rap_2	./music/need_classify/rap_2.mp3	Drum & Bass
+techno_1	./music/need_classify/techno_1.mp3	Techno
+techno_2	./music/need_classify/techno_2.mp3	Drum & Bass
